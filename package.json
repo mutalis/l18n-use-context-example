@@ -1,0 +1,26 @@
+{
+  "name": "react-1630-context-api",
+  "version": "0.0.0",
+  "description": "playground",
+  "keywords": [
+    "react-16.3.0",
+    "talks",
+    "react-patterns-practices"
+  ],
+  "homepage": "https://codesandbox.io/s/6lxxo1x5vn",
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-flag-kit": "0.2.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
